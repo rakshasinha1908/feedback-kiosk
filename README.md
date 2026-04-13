@@ -4,7 +4,7 @@ A modern, production-ready React.js survey kiosk application built with Vite, Ta
 
 ## Live Demo
 
-
+[https://feedback-kiosk-indol.vercel.app/]
 
 ## Features
 
